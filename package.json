@@ -17,9 +17,10 @@
   },
   "homepage": "https://github.com/kraevskiy/command-utils#readme",
   "dependencies": {
-    "inquirer": "^9.1.2"
+    "inquirer": "^8.2.0"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.1"
+    "@types/inquirer": "^8.2.0",
+    "@types/node": "^17.0.14"
   }
 }
